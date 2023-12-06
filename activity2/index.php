@@ -4,7 +4,7 @@ require_once 'templates/header.php';
 
 <?php
 $host     = 'localhost'; // Because MySQL is running on the same computer as the web server
-$database = 'Sang_php'; // Name of the database you use (you need first to CREATE DATABASE in MySQL)
+$database = 'PHP_connect'; // Name of the database you use (you need first to CREATE DATABASE in MySQL)
 $user     = 'root'; // Default username to connect to MySQL is root
 $password = ''; // Default password to connect to MySQL is empty
 
